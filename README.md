@@ -1,1 +1,1 @@
-install picom, feh, polybar, autotiling and conky
+***Install picom, feh, polybar, autotiling and conky.***
