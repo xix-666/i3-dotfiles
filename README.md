@@ -1,2 +1,1 @@
-# i3-dotfiles
-i3 dotfiles backup
+install picom, feh, polybar, autotiling and conky
